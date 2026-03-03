@@ -8,5 +8,4 @@ nav_order: 0
 
 ## Bem-vindos
 
-Está página é dedicada a disciplina de **Desenvolvimento de Software para Dispositivos Móveis**.  Aqui disponibilizarei as notas de aula e outros materiais.
-Utilizaremos esta página juntamente com o nosso discord.
+Está página é dedicada a disciplina de **Fundamentos de programaçãos**.  Aqui disponibilizarei as notas de aula e outros materiais.
