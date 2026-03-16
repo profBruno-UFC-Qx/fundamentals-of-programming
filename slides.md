@@ -16,6 +16,3 @@ nav_order: 26
     {% endif %}
 {% endfor %}
 
-## Playlist do Youtube
-
-<a href="https://www.youtube.com/playlist?list=PLg9Dmrz4kxn0IalKRCEESBcDZUS29SufW" target="_blank">Todas as videos aulas estão aqui</a>
