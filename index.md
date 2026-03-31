@@ -10,6 +10,8 @@ nav_order: 0
 
 Está página é dedicada a disciplina de **Fundamentos de programação**.  Aqui disponibilizarei as notas de aula e outros materiais.
 
+<a href="https://t.me/+lRKClca7oTBhNzAx" target="_blank">Você também pode participar do grupo de monitoria de FUP do monitor Cesário</a>
+
 Outro recurso que pode ajudar é <a href="https://go-tour-br.appspot.com/tour/welcome/1" target="_blank">A Tour of Go</a> que é um tutorial prático e interativo.
 Só tem um **detalhe**: **Ele não segue a ordem de conteúdo que veremos em sala**.
 
